@@ -16,8 +16,16 @@ p{
 }
 .pic_of_me{
     height: 286px;
-  
     box-shadow: 10px 10px #008080 ;
+    margin-left:100px;
+    align-items: center;
+    
+
+}
+.about_me_pic_and_text{
+display: flex;
+
+
 }
 
 .Main_body_div{
@@ -105,8 +113,9 @@ margin-top: 15px;
 }
 
 .aboutme_main{
-display: inline-block;
+display: inline-flex;
 
+align-items:center;
 
 }
 .about_me_main_text{
