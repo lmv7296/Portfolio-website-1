@@ -17,4 +17,4 @@ pages:
     - public
   only:
   - main
-  - pages
+
